@@ -1,0 +1,25 @@
+body{
+    background:#f2f1ef} 
+#key-block{
+    position: absolute;
+    border-bottom: 100%;
+    
+}
+
+#key-block img{
+    width: 150px;    
+}
+
+#key-block a{
+    background: white;
+    display: block;
+    transition: 0.6s;
+    color: #757d75;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#key-block a:hover{
+    background: #BFBFBF;
+    color: white;
+}
